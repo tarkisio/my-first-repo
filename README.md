@@ -1,13 +1,13 @@
 # my-first-repo
 
-## Como utilizar este Repositório
+How to use this repository
 
-Instrução 1
+Instruction 1
 
-Instrução 2
+Instruction 2
 
-Instrução 3
+Instruction 3
 
-Instrução 4
+Instruction 4
 
-Instrução 5
+Instruction 5
